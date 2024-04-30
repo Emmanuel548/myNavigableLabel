@@ -1,6 +1,3 @@
-Claro, aquí tienes la descripción de tu proyecto `MyNavigableLabel` en el mismo formato que el ejemplo que proporcionaste, listo para copiar y pegar en GitHub:
-
----
 
 # Componente MyNavigableLabel para Java Swing
 
