@@ -59,6 +59,7 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 ## Autores
 - [Emmanuel Jesus Ramirez Martinez] - *Desarrollador del proyecto* - [Contacto]((https://github.com/Emmanuel548))
+- [Alexander Juárez Pacheco] - *Desarrollador del proyecto* - [Contacto]((https://github.com/jsbdvsdbvhsdvjh))
 
 ## Agradecimientos
 - Gracias a todos los que contribuyeron a este proyecto.
