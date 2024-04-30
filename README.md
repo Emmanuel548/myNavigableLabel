@@ -57,6 +57,9 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 3. Haz tus cambios.
 4. Envía un pull request.
 
+##Video en YouTube
+https://www.youtube.com/watch?v=p3q0atKoeZQ&t=287s
+
 ## Autores
 - [Emmanuel Jesus Ramirez Martinez] - *Desarrollador del proyecto* - [Contacto]((https://github.com/Emmanuel548))
 - [Alexander Juárez Pacheco] - *Desarrollador del proyecto* - [Contacto]((https://github.com/jsbdvsdbvhsdvjh))
